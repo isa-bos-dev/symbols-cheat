@@ -1,0 +1,36 @@
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #475569;
+}
+
+/* Mathematical glyph typography */
+.glyph-display {
+  font-family: 'Cambria Math', 'STIX Two Math', 'KaTeX_Math', 'Times New Roman', serif;
+  font-feature-settings: "kern" 1, "liga" 1;
+}
+
+/* Footer (isabosdev signature, shared with the other isabosdev sites) */
+.mono {
+  font-family: "Cascadia Code", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+.brand-signature {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 600;
+}
+.brand-signature:hover { color: #f1f5f9; }
+.brand-signature .c1 { color: #569cd6; font-weight: 700; }
+.brand-signature .c2 { color: #9cdcfe; font-weight: 700; }
+.brand-signature .c3 { color: #ce9178; font-weight: 700; }
