@@ -9,6 +9,8 @@
 
 Una landing page con los símbolos que se usan en las fórmulas matemáticas — letras griegas, blackboard bold, caligráficas, fraktur y operadores — listos para copiar y pegar en Markdown, LaTeX, HTML o VS Code con un solo clic.
 
+[![Ir a la Aplicación](https://img.shields.io/badge/🚀_Ir_a_la_Aplicación-Click_Aquí-6366f1?style=for-the-badge&logoColor=white)](https://isabosdev.com/symbols-cheat/)
+
 <!-- Tech Stack Badges -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
